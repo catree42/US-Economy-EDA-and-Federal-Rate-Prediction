@@ -1,0 +1,8 @@
+
+After year,previous_IR
+Prediction : 6.57, Acutal : 6.29
+Prediction : 10.51, Acutal : 10.5
+Prediction : 10.13, Acutal : 9.65
+Prediction : 5.02, Acutal : 4.77
+Prediction : -0.01, Acutal : 0.16
+====================================================================================================
