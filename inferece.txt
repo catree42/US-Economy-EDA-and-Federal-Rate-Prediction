@@ -1,0 +1,1 @@
+the day inference : 2024-10-17 13:39:28.740342 | target month : 11, Fed fund rate inferenced : -0.07889204557258363

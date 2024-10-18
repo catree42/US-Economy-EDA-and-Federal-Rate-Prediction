@@ -1,0 +1,39 @@
+XGBoost
+Value : 0.44763431048899976
+Params : subsample : 0.6612406876804265n_estimators : 129min_child_weight : 6max_depth : 10learning_rate : 0.12559031521083516gamma : 0.11001905857566242colsample_bytree : 0.6876872279568675====================================================================================================
+Value : 0.4878719748252676
+Params : model : LightGBMnum_leaves : 27n_estimators : 188min_child_weight : 5max_depth : 8learning_rate : 0.07009977442213385colsample_bytree : 0.5202621398803242====================================================================================================
+Best Model : 0.4878719748252676, Best Parameters : {'model': 'LightGBM', 'num_leaves': 27, 'n_estimators': 188, 'min_child_weight': 5, 'max_depth': 8, 'learning_rate': 0.07009977442213385, 'colsample_bytree': 0.5202621398803242}
+====================================================================================================
+Best Model : 0.4878719748252676, Best Parameters : {'model': 'LightGBM', 'num_leaves': 27, 'n_estimators': 188, 'min_child_weight': 5, 'max_depth': 8, 'learning_rate': 0.07009977442213385, 'colsample_bytree': 0.5202621398803242}
+====================================================================================================
+Best Model : 0.4257703180666773, Best Parameters : {'model': 'RandomForest', 'n_estimators': 165, 'max_depth': 7, 'min_samples_leaf': 8, 'min_samples_split': 8}
+====================================================================================================
+Best Model : 0.4263233459776222, Best Parameters : {'model': 'CatBoost', 'iterations': 117, 'learning_rate': 0.11076403610209382, 'l2_leaf_reg': 8, 'border_count': 77}
+====================================================================================================
+Best Model : 0.4266190189078508, Best Parameters : {'model': 'XGBoost', 'subsample': 0.6120650080409558, 'n_estimators': 134, 'min_child_weight': 3, 'max_depth': 7, 'learning_rate': 0.048740756166549305, 'gamma': 0.14824945289847913, 'colsample_bytree': 0.805144016571564}
+====================================================================================================
+Best Model : 0.48069449893683647, Best Parameters : {'model': 'XGBoost', 'subsample': 0.8659155515897274, 'n_estimators': 68, 'min_child_weight': 5, 'max_depth': 17, 'learning_rate': 0.16847886168028997, 'gamma': 0.25456358631953324, 'colsample_bytree': 0.40335206387074474}
+====================================================================================================
+Best Model : 0.4152874817983199, Best Parameters : {'model': 'XGBoost', 'subsample': 0.7404299868455559, 'n_estimators': 58, 'min_child_weight': 7, 'max_depth': 21, 'learning_rate': 0.13884755919618472, 'gamma': 0.23970378257621888, 'colsample_bytree': 0.30539835433434487}
+====================================================================================================
+Best Model : 0.4152874817983199, Best Parameters : {'model': 'XGBoost', 'subsample': 0.7404299868455559, 'n_estimators': 58, 'min_child_weight': 7, 'max_depth': 21, 'learning_rate': 0.13884755919618472, 'gamma': 0.23970378257621888, 'colsample_bytree': 0.30539835433434487}
+====================================================================================================
+Best Model : 0.4845390902165016, Best Parameters : {'model': 'RandomForest', 'n_estimators': 164, 'max_depth': 12, 'min_samples_leaf': 14, 'min_samples_split': 7}
+====================================================================================================
+Best Model : 0.4814154195699833, Best Parameters : {'model': 'RandomForest', 'n_estimators': 172, 'max_depth': 14, 'min_samples_leaf': 20, 'min_samples_split': 8}
+====================================================================================================
+Best Model : 0.4815814531551257, Best Parameters : {'model': 'RandomForest', 'n_estimators': 177, 'max_depth': 10, 'min_samples_leaf': 19, 'min_samples_split': 8}
+====================================================================================================
+Best Model : 0.47828800113994896, Best Parameters : {'model': 'RandomForest', 'n_estimators': 180, 'max_depth': 12, 'min_samples_leaf': 24, 'min_samples_split': 4}
+====================================================================================================
+Best Model : 0.47746212157560236, Best Parameters : {'model': 'RandomForest', 'n_estimators': 181, 'max_depth': 8, 'min_samples_leaf': 30, 'min_samples_split': 3}
+====================================================================================================
+Best Model : 0.4774181644757383, Best Parameters : {'model': 'RandomForest', 'n_estimators': 186, 'max_depth': 13, 'min_samples_leaf': 28, 'min_samples_split': 2}
+====================================================================================================
+Best Model : 0.4774181644757383, Best Parameters : {'model': 'RandomForest', 'n_estimators': 186, 'max_depth': 13, 'min_samples_leaf': 28, 'min_samples_split': 2}
+====================================================================================================
+Best Model : 0.4773729654214617, Best Parameters : {'model': 'RandomForest', 'n_estimators': 162, 'max_depth': 14, 'min_samples_leaf': 30, 'min_samples_split': 6}
+====================================================================================================
+Best Model : 0.47736697544557394, Best Parameters : {'model': 'RandomForest', 'n_estimators': 194, 'max_depth': 15, 'min_samples_leaf': 33, 'min_samples_split': 9}
+====================================================================================================

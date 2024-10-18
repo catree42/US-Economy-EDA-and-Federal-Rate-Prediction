@@ -6,3 +6,31 @@ Prediction : 10.13, Acutal : 9.65
 Prediction : 5.02, Acutal : 4.77
 Prediction : -0.01, Acutal : 0.16
 ====================================================================================================
+After target=present change
+Prediction : -0.05, Acutal : -0.3100000000000005
+Prediction : 0.11, Acutal : -0.25
+Prediction : -0.14, Acutal : -0.6
+Prediction : 0.19, Acutal : 0.0
+Prediction : 0.48, Acutal : 0.47
+====================================================================================================
+After target=previous change
+Prediction : -0.08, Acutal : 0.120000000000001
+Prediction : 0.0, Acutal : -0.5999999999999996
+Prediction : 0.25, Acutal : 0.03
+Prediction : 0.0, Acutal : 0.0
+Prediction : -0.09, Acutal : 0.0099999999999999
+====================================================================================================
+After mice_outlier_minmax
+Prediction : -0.17, Acutal : -1.0500000000000005
+Prediction : -0.61, Acutal : 0.2599999999999998
+Prediction : -0.08, Acutal : -0.3999999999999994
+Prediction : -0.05, Acutal : 0.1299999999999999
+Prediction : 0.06, Acutal : -0.0199999999999999
+====================================================================================================
+After present change
+Prediction : 0.14, Acutal : 0.4699999999999997
+Prediction : 0.03, Acutal : -0.1399999999999988
+Prediction : -0.09, Acutal : -0.3799999999999999
+Prediction : -0.02, Acutal : -0.2999999999999998
+Prediction : 0.29, Acutal : 0.2299999999999999
+====================================================================================================
